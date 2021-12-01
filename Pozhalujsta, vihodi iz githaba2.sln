@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pozhalujsta, vihodi iz githaba2", "Pozhalujsta, vihodi iz githaba2.pyproj", "{5190E463-2202-4D96-B562-32BAB6681358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5190E463-2202-4D96-B562-32BAB6681358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5190E463-2202-4D96-B562-32BAB6681358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A152AFE4-3CDB-4BBA-9112-8B0063792913}
+	EndGlobalSection
+EndGlobal
